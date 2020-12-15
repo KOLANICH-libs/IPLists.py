@@ -1,0 +1,16 @@
+*.p2p
+*.cidr
+*.dat
+ip-ranges.json
+cidr-merger
+cidr-merger.exe
+__pycache__
+*.py[co]
+/*.egg-info
+*.srctrlbm
+*.srctrldb
+build
+dist
+.eggs
+monkeytype.sqlite3
+/.ipynb_checkpoints
